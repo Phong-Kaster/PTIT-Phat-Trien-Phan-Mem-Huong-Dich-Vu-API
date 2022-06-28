@@ -30,9 +30,11 @@
 
 API này được xây dựng để phát triển ứng dụng đa nền tảng. Với môn học này, chúng mình xây dựng ứng dụng trên 3 nền tảng chuyên biệt là 
 
-- [**Website**](#)
+- [**Restful API**](https://github.com/Phong-Kaster/PTIT-Phat-Trien-Phan-Mem-Huong-Dich-Vu-API#)
 
-- [**Android**](#)
+- [**Website**](https://github.com/Phong-Kaster/PTIT-Phat-Trien-Phan-Mem-Huong-Dich-Vu-Website)
+
+- [**Android**](https://github.com/Phong-Kaster/PTIT-Phat-Trien-Ung-Dung-Di-Dong-Cuoi-Ki)
 
 - [**iOS**](#)
 

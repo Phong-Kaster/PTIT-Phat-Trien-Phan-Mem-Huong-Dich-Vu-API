@@ -1,0 +1,27 @@
+{
+    "require": {
+        "altorouter/altorouter": "1.1.0",
+        "kint-php/kint": "^1.1",
+        "usmanhalalit/pixie": "^2.0",
+        "paragonie/random_compat": "^2.0",
+        "defuse/php-encryption": "^2.0",
+        "gettext/gettext": "^4.3",
+        "phpmailer/phpmailer": "~6.0",
+        "fightbulc/moment": "dev-master",
+        "firebase/php-jwt": "^5.5",
+        "spomky-labs/otphp": "^10.0",
+        "google/apiclient": "^2.12",
+        "symfony/symfony": "5.4"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/fightbulc/moment.php.git",
+            "type": "git"
+        }
+    ]
+}
